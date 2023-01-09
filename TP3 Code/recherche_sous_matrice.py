@@ -59,6 +59,7 @@ def sous_matrice_non_naive_avec_tri(A, B):
 
 # la complexité temporelle est de O(n x log(m) x n' x m') = O(n x log(m) x n' x m')
 
+
 def recherche_dichotomique(liste, element):
     debut = 0
     fin = len(liste) - 1
